@@ -23,7 +23,7 @@ Compared Random Forest, PyTorch, and TensorFlow/Keras models on the AI4I 2020 da
 
 **ML / Data:** Python · PyTorch · TensorFlow · Scikit-Learn · Pandas · SQL · Jupyter
 **Systems:** Rockwell & Siemens PLCs, industrial networking (Stratix), industrial communication protocols
-**Tools:** Docker · FastAPI · LangChain (RAG applications)
+**Tools:** Docker · FastAPI 
 
 ## Let's connect
 
