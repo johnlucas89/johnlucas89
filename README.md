@@ -29,4 +29,4 @@ Compared Random Forest, PyTorch, and TensorFlow/Keras models on the AI4I 2020 da
 
 I'm actively building out my ML portfolio and open to conversations about Data Science, Data Engineering, or ML roles in industrial/manufacturing contexts.
 
-📫 [LinkedIn](https://www.linkedin.com/in/johnlucas89/) · [Email](johnlucas_89@hotmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/johnlucas89/) · [Email](mailto:johnlucas_89@hotmail.com)
